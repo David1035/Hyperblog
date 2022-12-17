@@ -1,4 +1,5 @@
-hola
-este es un primer de novato 
-me gusta colombia 
-2
+Mi nombre es David Hernandez 
+Tengo 29 años y me gusta trabajar en equipo 
+Soy apasionado por aprender de tecnología. 
+
+Mi último libro leído fue: el liderazgo y la tecnología.
